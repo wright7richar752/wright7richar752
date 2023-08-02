@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wright7richar752
+- 👀 I’m interested in Software Engineering. I’m currently learning C++.
+- 🌱 Passionate about systems programming and love complex problem-solving.
